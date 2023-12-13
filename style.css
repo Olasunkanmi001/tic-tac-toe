@@ -1,0 +1,22 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+width: 100vw;
+height: 100vh;
+}
+#cont {
+    display: flex;
+    border: none;
+    text-align: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+#cont div {
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+
+}
